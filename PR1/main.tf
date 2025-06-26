@@ -27,6 +27,4 @@ resource "aws_instance" "tf-fun" {
   tags = {
     Name = "tf-fun-instance"
   }
-
-  
 }
