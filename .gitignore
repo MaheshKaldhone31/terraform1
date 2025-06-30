@@ -18,3 +18,4 @@ crash.log
 # Sensitive provider credentials (e.g., AWS)
 .terraformrc
 terraform.rc
+*.tfstate.lock.info
